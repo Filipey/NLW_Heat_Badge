@@ -1,7 +1,7 @@
 const LinkSocialMedia = {
   github: 'Filipey',
-  youtube: 'UC6dfD3ZcTuX0OFy6wqLx7NQ',
-  facebook: 'zuck',
+  youtube: '',
+  facebook: '',
   instagram: 'filipe_augustosm',
   twitter: 'DzFilipeDz'
 }
